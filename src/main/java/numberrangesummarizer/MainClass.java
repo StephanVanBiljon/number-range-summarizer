@@ -1,7 +1,6 @@
 package numberrangesummarizer;
 
 import java.util.Collection;
-import numberrangesummarizer.NumberRangeSummarizerImpl;
 
 public class MainClass {
     public static void main(String[] args) {
